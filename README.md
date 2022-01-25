@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, 👋 I'm [ShadityZ](https://github.com/ShadityZ)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShadityZ%2FShadityZ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits%3A+&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**ShadityZ/ShadityZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [ShadityOS](https://github.com/ShadityOS)
+- 🌱 I’m currently learning [Full Stack Python](https://www.fullstackpython.com/) and Bash!
+- 🤔 I’m looking for help with [ShadityOS](https://github.com/ShadityOS)
+- 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!
+- 📫 How to reach me: Create an issue at [ShadityZ/ShadityZ](https://github.com/ShadityZ/ShadityZ)
+- ⚡ Fun fact: Everyone should use a [Raspberry Pi](https://raspberrypi.org)!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🏆 My Github Stats:
+![ShadityZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadityZ&show_icons=true&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShadityZ&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
