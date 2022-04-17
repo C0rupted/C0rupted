@@ -1,7 +1,7 @@
 ## Hi there, 👋 I'm [ShadityZ](https://github.com/ShadityZ)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShadityZ%2FShadityZ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits%3A+&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on [ShadityOS](https://github.com/ShadityOS)
+- 🔭 I’m currently working on [Vitrix](https://github.com/ShadityZ/Vitrix)
 - 🌱 I’m currently learning [Full Stack Python](https://www.fullstackpython.com/) and Bash!
 - 🤔 I’m looking for help with [ShadityOS](https://github.com/ShadityOS)
 - 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!
