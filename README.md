@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Vitrix](https://github.com/ShadityZ/Vitrix)
 - 🌱 I’m currently learning [Full Stack Python](https://www.fullstackpython.com/) and Bash!
-- 🤔 I’m looking for help with [ShadityOS](https://github.com/ShadityOS)
+- 🤔 I’m looking for help with [Vitrix](https://github.com/ShadityZ/Vitrix)
 - 💬  ![**anything**](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) [Raspberry Pi](https://raspberrypi.org) related!
 - 📫 How to reach me: Create an issue at [ShadityZ/ShadityZ](https://github.com/ShadityZ/ShadityZ)
 - ⚡ Fun fact: Everyone should use a [Raspberry Pi](https://raspberrypi.org)!
